@@ -44,3 +44,6 @@ background: var(--azul-degrade);
 background-clip: text;
 text-transform: uppercase;
 }
+.contanier__botão {
+     display: none;
+}
